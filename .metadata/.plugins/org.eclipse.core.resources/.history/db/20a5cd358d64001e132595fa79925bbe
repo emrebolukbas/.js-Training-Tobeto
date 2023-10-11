@@ -1,0 +1,10 @@
+/**
+ * 
+ */
+
+ function topla () {
+	 
+	 const birinciSayi = document.getElementById("input-1").value;
+	 
+	 
+ }

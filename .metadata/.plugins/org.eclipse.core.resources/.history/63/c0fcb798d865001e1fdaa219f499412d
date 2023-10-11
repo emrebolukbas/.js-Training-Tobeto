@@ -1,0 +1,21 @@
+/**
+ * 
+ */
+
+ var bilgiIletisi = "Siparişleriniz burada görüntülenecek"
+ var girisIletisi = "Teşekkür ederiz..."
+ 
+ /** */
+ function sayfaYukle () {
+	 
+	 document.getElementById("p-1").innerHTML = bilgiIletisi;
+ }
+ 
+ /** */
+ 
+ function temizle () {
+	 
+	 document.getElementById("input-1").value = "";
+	 document.getElementById("input-1").value = "";
+	 document.getElementById("p-1").innerHTML = bilgiIletisi;
+ }

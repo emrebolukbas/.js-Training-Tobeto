@@ -1,0 +1,60 @@
+/**
+ * 
+ */
+
+ function topla () {
+	 
+	 var birinciSayi = +document.getElementById("input-1").value;
+	 var ikinciSayi = +document.getElementById("input-2").value;
+	 var toplam;
+	 
+	 toplam = birinciSayi + ikinciSayi;
+	 
+	 document.getElementById("p-1").innerHTML= toplam
+	 
+ }
+ 
+ function cıkart () {
+	 
+	 var birinciSayi = +document.getElementById("input-1").value;
+	 var ikinciSayi = +document.getElementById("input-2").value;
+	 var cikar;
+	 
+	 cikar = birinciSayi - ikinciSayi;
+	 
+	 document.getElementById("p-1").innerHTML= cikar
+	 
+ }
+ 
+  function carp () {
+	 
+	 var birinciSayi = +document.getElementById("input-1").value;
+	 var ikinciSayi = +document.getElementById("input-2").value;
+	 var carpma;
+	 
+	 carpma = birinciSayi * ikinciSayi;
+	 
+	 document.getElementById("p-1").innerHTML= carpma
+	 
+ }
+  function bol () {
+	 
+	 var birinciSayi = +document.getElementById("input-1").value;
+	 var ikinciSayi = +document.getElementById("input-2").value;
+	 var bolme;
+	 
+	 bolme = birinciSayi / ikinciSayi;
+	 
+	 document.getElementById("p-1").innerHTML= bolme
+	 
+ }
+ 
+ function temizle () {
+	 document.getElementById("input-1").value=""
+	 document.getElementById("input-2").value=""
+	 document.getElementById("p-1").innerHTML= "Temizlendi...Sonuçlar burada gösterilir..."
+	 
+	 
+ }
+ 
+ 

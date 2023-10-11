@@ -1,0 +1,5 @@
+@charset "UTF-8";
+
+table {
+	border: solid 2px dashed #4455ee;
+}

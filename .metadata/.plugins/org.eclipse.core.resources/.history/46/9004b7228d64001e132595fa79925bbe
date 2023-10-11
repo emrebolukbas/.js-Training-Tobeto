@@ -1,0 +1,8 @@
+/**
+ * 
+ */
+
+ function topla () {
+	 
+	 alert ("Şu anda topla işlevinin içerisindeyiz");
+ }

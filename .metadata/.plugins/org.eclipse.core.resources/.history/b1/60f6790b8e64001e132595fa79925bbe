@@ -1,0 +1,11 @@
+/**
+ * 
+ */
+
+ function topla () {
+	 
+	 var birinciSayi = document.getElementById("input-1").value;
+	 var ikinciSayi = document.getElementById("input-2").value;
+	 
+	 
+ }

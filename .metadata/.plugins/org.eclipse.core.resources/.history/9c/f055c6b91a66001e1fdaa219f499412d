@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title> 4-Oyun Bir Sayı Tut 1.0 </title>
+	<link rel="stylesheet" href="oyunBirSayiTut.css">
+	<script type="text/javascript" src="oyunBirSayiTut.js"></script>
+</head>
+<body onload="sayfaYukle()">
+	<table class="table-1">
+		<tr>
+			<td>
+				
+			</td>
+			<td>
+				
+			</td>
+			<td>
+				<button> Bir Sayı Tut </button>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="1">
+			
+			</td>
+		</tr>
+		<button> Tahmin Et </button>
+	</table>
+	<br/>
+	<br/>
+	<p></p>
+</body>
+</html>

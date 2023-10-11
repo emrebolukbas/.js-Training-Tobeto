@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>1-Toplama 1.0</title>
+</head>
+<body>
+	<script type="text/javascript">
+		
+		alert("Çalışıyor");
+		
+	</script>
+</body>
+</html>

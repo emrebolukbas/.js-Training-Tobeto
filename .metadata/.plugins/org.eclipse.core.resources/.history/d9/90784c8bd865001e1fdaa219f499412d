@@ -1,0 +1,11 @@
+/**
+ * 
+ */
+
+ var bilgiIletisi = "Siparişleriniz burada görüntülenecek"
+ var girisIletisi = "Teşekkür ederiz..."
+ 
+ function sayfaYukle () {
+	 
+	 document.getElementById("p-1").innerHTML = bilgiIletisi;
+ }

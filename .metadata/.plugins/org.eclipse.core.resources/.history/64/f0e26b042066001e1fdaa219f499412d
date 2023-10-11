@@ -1,0 +1,16 @@
+/**
+ * 
+ */
+
+const acilisDizgisi = "Bil Bakalım Sayı Tahmin Oyununa Hoş Geldiniz"
+var sonucParagrafi;
+
+ /** */
+ 
+ function sayfaYukle() {
+	 sonucParagrafi = document.getElementById("p-1");
+	 sonucParagrafi.innerHTML = acilisDizgisi;
+	 
+	 document.getElementById("input-3").disabled = true;
+	 document.getElementById("button-1").disabled = true;
+ }
